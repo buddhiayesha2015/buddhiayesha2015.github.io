@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-* M.Sc. (Research) in Computer Science and Engineering from the [University of Moratuwa](https://uom.lk/), specializing in Data Science and Machine Learning.
+* M.Sc. (Research) in [Computer Science and Engineering](https://cse.mrt.ac.lk/) from the [University of Moratuwa](https://uom.lk/), specializing in Data Science and Machine Learning.
+* Graduate Teaching Assistant in the [Department of Computer Science & Engineering](https://cse.mrt.ac.lk/) at the [University of Moratuwa](https://uom.lk/).
 * Senior Research Engineer at [DataSEARCH - Data Science, Engineering, and Analytics Research Center](https://uom.lk/datasearch/projects).
-* Developer at Google Summer of Code - [Apache Software Foundation](https://summerofcode.withgoogle.com/archive/2017/projects/6359040665845760).
+* B.Sc. Engineering (Hons) in [Computer Science and Engineering (Washington Accord Accredited)](https://cse.mrt.ac.lk/) from the [University of Moratuwa](https://uom.lk/).
+* Developer at [Google Summer of Code](https://summerofcode.withgoogle.com/) - [Apache Software Foundation](https://summerofcode.withgoogle.com/archive/2017/projects/6359040665845760).
 
-I received my B.Sc. (Hons) in Computer Science and Engineering from the University of Moratuwa, Sri Lanka.
-
-My research interests are primarily centered around Data Science, Machine Learning, Big Data, and Computer Vision.
+My research interests primarily center around **Data Science, Machine Learning, and Big Data**.
 
 ## Publications:
 [Citations: 220, h-index: 5, i10-index: 5](https://scholar.google.com/citations?user=p_fJiXwAAAAJ&hl)
