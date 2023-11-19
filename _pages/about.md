@@ -12,7 +12,7 @@ redirect_from:
 * Graduate Teaching Assistant in the [Department of Computer Science & Engineering](https://cse.mrt.ac.lk/) at the [University of Moratuwa](https://uom.lk/).
 * Senior Research Engineer in the [DataSEARCH - Data Science, Engineering, and Analytics Research Center](https://uom.lk/datasearch/projects) at the [University of Moratuwa](https://uom.lk/).
 * B.Sc. Engineering (Hons) in [Computer Science and Engineering (Washington Accord Accredited)](https://cse.mrt.ac.lk/) from the [University of Moratuwa](https://uom.lk/).
-* Developer at [Google Summer of Code](https://summerofcode.withgoogle.com/) - [Apache Software Foundation](https://summerofcode.withgoogle.com/archive/2017/projects/6359040665845760).
+* Student contributor at [Google Summer of Code](https://summerofcode.withgoogle.com/) - [Apache Software Foundation](https://summerofcode.withgoogle.com/archive/2017/projects/6359040665845760).
 
 My research interests primarily center around **Data Science, Machine Learning, and Big Data**.
 
