@@ -42,7 +42,7 @@ author_profile: true
   <img src='/images/asf_logo.png' width="90" alt="Apache Software Foundation Logo" style="margin-right:10px;">
   <div>
     <strong>Google Summer of Code - Apache Software Foundation</strong><br>
-    <b style="padding-left:24px;color:gray;">Student Developer (Part-time) | May 2017 - Aug 2017</b><br>
+    <b style="padding-left:24px;color:gray;">Student Contributor (Part-time) | May 2017 - Aug 2017</b><br>
       <div style="padding-left:24px;">
       - Project: Add SQL support to Apache Gearpump<br>
       - Technology stack: Scala, sbt, Apache Calcite, Apache Gearpump, Jira, Git<br>
