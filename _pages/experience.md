@@ -8,7 +8,7 @@ author_profile: true
   <img src='/images/data_search_logo.png' width="80" alt="DataSEARCH Logo" style="margin-right:20px;">
   <div>
     <strong>DataSEARCH - Data Science, Engineering and Analytics Research Center</strong><br>
-    <b style="padding-left:24px;color:gray;">Senior Software Engineer (Full-time) | Nov 2021 - Present</b><br>
+    <b style="padding-left:24px;color:gray;">Senior Software Engineer (Full-time) | Nov 2021 - Dec 2022</b><br>
       <div style="padding-left:24px;">
       - Projects: Data Fusion Framework Development, Image Segmentation for CCTV Surveillance<br>
       - Technology stack: Apache Hive, Apache Spark, Apache Hadoop, Django, Angular, NodeJS<br>
