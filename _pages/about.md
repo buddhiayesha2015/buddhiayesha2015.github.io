@@ -17,7 +17,7 @@ redirect_from:
 My research interests primarily center around **Data Science, Machine Learning, and Big Data**.
 
 ## Publications:
-[Citations: 227, h-index: 5, i10-index: 5](https://scholar.google.com/citations?user=p_fJiXwAAAAJ&hl)
+[Citations: 228, h-index: 5, i10-index: 5](https://scholar.google.com/citations?user=p_fJiXwAAAAJ&hl)
 
 1. **Evaluation of Manual and Video-Based Automated Classified Vehicle Counting Methods for Heterogeneous Traffic Flow**  
    <span style="color:gray;">Authors: Perera RAPUS, Herath HMOK, **Ayesha B**, Sivakumar T, Kumarage AS, Perera AS</span>  
