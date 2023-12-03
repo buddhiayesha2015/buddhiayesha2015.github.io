@@ -4,10 +4,10 @@ title: "Projects"
 author_profile: true
 ---
 
-* **Educational Data Mining Framework for Predicting High School Student Performance**  
-  <span style="color:gray;">Technologies: Scikit-learn, PyTorch, Scrapy, MongoDB, Django</span>  
+* **Integrating Reinforcement Learning and Deep Learning to Predict Factors Influencing Student Performance in Educational Settings**  
+  <span style="color:gray;">Technologies: TensorFlow, OpenAI Gym, Scikit-learn, Pandas, NumPy, Scrapy, MongoDB, Django</span>  
   **Advised by:** [Prof. Umashanger Thayasivam](https://csm.rowan.edu/departments/math/facultystaff/math_full_part/thayasivam.html)  
-  An educational data mining project leveraging performance metrics, socio-economic backgrounds, and learning styles to predict high school student outcomes across multiple schools.
+  A pioneering project combining Reinforcement Learning and Deep Learning to analyze and predict factors influencing student performance, aiming for tailored interventions and improved prediction accuracy in educational environments.
 
 * **Data Fusion Framework Development for Facilitating Data Usage Across Multiple Applications**  
   <span style="color:gray;">Technologies: Apache Hive, Apache Spark, Apache Hadoop, Apache Kafka, Angular, Django</span>  
