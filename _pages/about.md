@@ -43,5 +43,5 @@ My research interests primarily center around **Data Science, Machine Learning, 
 
 **PCT Patent: Breath Monitoring Devices, Systems and Methods**  
 <span style="color:gray;">Filed in: Singapore, Publication Date: Jul 2020</span>   
-[SG WO/2020/141999](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020141999)  
+[WO/2020/141999](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020141999)  
 Description: A portable earphone for monitoring breathing through the ear canal of a human. The earpiece device consists of microphones to pick signals of internal turbulences in an ear canal and send processed signals to mobile phones for further analysis. These signals may be used to control mobile games and monitor breathing via mobile phones.
