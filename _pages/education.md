@@ -18,7 +18,7 @@ author_profile: true
 <div style="display:flex;align-items:center;margin-bottom:20px;margin-top:20px;">
   <img src='/images/uom_logo.png' width="80" alt="University of Moratuwa Logo" style="margin-right:30px;">
   <div>
-    <strong>B.Sc. (Hons) in Computer Science and Engineering (Washington Accord Accredited)</strong><br>
+    <strong>B.Sc. Engineering (Hons) in Computer Science and Engineering (Washington Accord Accredited)</strong><br>
     <a href="https://uom.lk/">University of Moratuwa</a>, Sri Lanka.<br>
     - Thesis: Ontology-based Legal Information Extraction<br>
     - Graduation: January, 2018
