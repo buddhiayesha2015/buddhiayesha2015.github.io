@@ -11,6 +11,7 @@ redirect_from:
 * Graduate Teaching Assistant in the [Department of Computer Science & Engineering](https://cse.mrt.ac.lk/) at the [University of Moratuwa](https://uom.lk/).
 * M.Sc. (Research) in [Computer Science and Engineering](https://cse.mrt.ac.lk/) from the [University of Moratuwa](https://uom.lk/), specializing in Data Science and Machine Learning.
 * Senior Software Engineer in the [DataSEARCH - Data Science, Engineering, and Analytics Research Center](https://uom.lk/datasearch/projects) at the [University of Moratuwa](https://uom.lk/).
+* Associate Member of the [Institution of Engineers Sri Lanka (IESL)](https://iesl.lk/index.php?lang=en).
 * B.Sc. Engineering (Hons) in [Computer Science and Engineering (Washington Accord Accredited)](https://cse.mrt.ac.lk/) from the [University of Moratuwa](https://uom.lk/).
 * Student Contributor at [Google Summer of Code](https://summerofcode.withgoogle.com/) - [Apache Software Foundation](https://summerofcode.withgoogle.com/archive/2017/projects/6359040665845760).
 
