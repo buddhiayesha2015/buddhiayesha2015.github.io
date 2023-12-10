@@ -7,7 +7,7 @@ author_profile: true
 <div style="display:flex;align-items:center;margin-bottom:20px;margin-top:20px;">
   <img src='/images/data_search_logo.png' width="80" alt="DataSEARCH Logo" style="margin-right:20px;">
   <div>
-    <strong>DataSEARCH (Data Science, Engineering and Analytics Research Center) University of Moratuwa</strong><br>
+    <strong>DataSEARCH (Data Science, Engineering and Analytics Research Center), University of Moratuwa</strong><br>
     <b style="padding-left:24px;color:gray;">Senior Software Engineer (Full-time) | Nov 2021 - Dec 2022</b><br>
       <div style="padding-left:24px;">
       - Projects: Data Fusion Framework Development, Image Segmentation for CCTV Surveillance<br>
