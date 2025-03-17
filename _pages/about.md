@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+* Graduate Teaching Fellow in the [Department of Mathematics](https://csm.rowan.edu/departments/math/) at the [Rowan University](https://www.rowan.edu/).
+* Ph.D. student in [Data Science](https://global.rowan.edu/programs/phd-in-data-science.html) at [Rowan University](https://www.rowan.edu/).
 * Graduate Teaching Assistant in the [Department of Computer Science & Engineering](https://cse.mrt.ac.lk/) at the [University of Moratuwa](https://uom.lk/).
 * M.Sc. (Research) in [Computer Science and Engineering](https://cse.mrt.ac.lk/) from the [University of Moratuwa](https://uom.lk/), specializing in Data Science and Machine Learning.
 * Senior Software Engineer in the [DataSEARCH - Data Science, Engineering, and Analytics Research Center](https://uom.lk/datasearch/projects) at the [University of Moratuwa](https://uom.lk/).
@@ -18,25 +20,29 @@ redirect_from:
 My research interests primarily center around **Data Science, Machine Learning, and Big Data**.
 
 ## Publications:
-[Citations: 228, h-index: 5, i10-index: 5](https://scholar.google.com/citations?user=p_fJiXwAAAAJ&hl)
+[Citations: 262, h-index: 6, i10-index: 5](https://scholar.google.com/citations?user=p_fJiXwAAAAJ&hl)
 
-1. **Evaluation of Manual and Video-Based Automated Classified Vehicle Counting Methods for Heterogeneous Traffic Flow**  
+1. **Multilingual Student Performance Prediction Using Llama 3**  
+   <span style="color:gray;">Authors: **Ayesha B**, Thayasivam U, Uthayasanker T</span>  
+   Published in: *IEEE International Conference on Big Data (BigData)*, December 2024, IEEE
+
+2. **Evaluation of Manual and Video-Based Automated Classified Vehicle Counting Methods for Heterogeneous Traffic Flow**  
    <span style="color:gray;">Authors: Perera RAPUS, Herath HMOK, **Ayesha B**, Sivakumar T, Kumarage AS, Perera AS</span>  
    Published in: *Eastern Asia Society for Transportation Studies*, September 2021 (Vol. 13)
 
-2. **User Localization Based on Call Detail Records**  
+3. **User Localization Based on Call Detail Records**  
    <span style="color:gray;">Authors: **Ayesha B**, Jeewanthi B, Chitraranjan C, Perera AS, Kumarage AS</span>  
    Published in: *International Conference on Intelligent Data Engineering and Automated Learning*, November 2019 (pp. 411-423), Springer, Cham
 
-3. **Legal Document Retrieval Using Document Vector Embeddings and Deep Learning**  
+4. **Legal Document Retrieval Using Document Vector Embeddings and Deep Learning**  
    <span style="color:gray;">Authors: Sugathadasa K, **Ayesha B**, De Silva N, Perera AS, Jayawardana V, Lakmal D, Perera M</span>  
    Published in: *Science and information conference*, July 2018 (pp. 160-175), Springer, Cham
 
-4. **Synergistic Union of Word2vec and Lexicon for Domain Specific Semantic Similarity**  
+5. **Synergistic Union of Word2vec and Lexicon for Domain Specific Semantic Similarity**  
    <span style="color:gray;">Authors: Sugathadasa K, **Ayesha B**, De Silva N, Perera AS, Jayawardana V, Lakmal D, Perera M</span>  
    Published in: *IEEE international conference on industrial and information systems (ICIIS)*, December 2017 (pp. 1-6), IEEE
 
-5. **Word vector embeddings and domain specific semantic based semi-supervised ontology instance population**  
+6. **Word vector embeddings and domain specific semantic based semi-supervised ontology instance population**  
    <span style="color:gray;">Authors: Jayawardana V, Lakmal D, De Silva N, Perera AS, Sugathadasa K, **Ayesha B**, Perera M</span>  
    Published in: *International Journal on Advances in ICT for Emerging Regions*, December 2017
 
