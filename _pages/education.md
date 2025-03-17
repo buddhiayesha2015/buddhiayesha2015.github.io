@@ -5,6 +5,16 @@ author_profile: true
 ---
 
 <div style="display:flex;align-items:center;margin-bottom:20px;margin-top:20px;">
+  <img src='/images/ru_logo.png' width="80" alt="University of Moratuwa Logo" style="margin-right:30px;">
+  <div>
+    <strong>Ph.D. student in Data Science</strong><br>
+    <a href="https://www.rowan.edu/">Rowan University</a>, NJ, USA.<br>  
+    - Specialization: Reinforcement Learning, Deep Learning<br>
+    - Graduation: January, 2028
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;margin-bottom:20px;margin-top:20px;">
   <img src='/images/uom_logo.png' width="80" alt="University of Moratuwa Logo" style="margin-right:30px;">
   <div>
     <strong>M.Sc. (Research) in Computer Science and Engineering</strong><br>
